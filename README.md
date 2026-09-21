@@ -68,6 +68,7 @@ Improving cybersecurity documentation skills
 Anoop Gangadharan
 
 Cybersecurity Learner | Offensive Security & VAPT
+https://lnkd.in/p/gkJgUQfp
 ### 📌 Project Status
 Status: Completed – Week 2 Reconnaissance & Information Gathering Project
 
